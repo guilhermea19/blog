@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "category": "Tecnologia",
+      "title": "O guia definitivo sobre o Blog",
+      "resume": "Lorem ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque.",
+      "author": "Guilherme Augusto",
+      "date": "April 20, 2022"
+    },
+    {
+      "id": 2,
+      "category": "Fotografia",
+      "title": "Quais as melhores câmeras em 2021?",
+      "resume": "Lorem ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque.",
+      "author": "Guilherme Augusto",
+      "date": "April 21, 2022"
+    },
+    {
+      "id": 3,
+      "category": "Cinema",
+      "title": "Os 10 filmes com maior bilheteria.",
+      "resume": "Lorem ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque.",
+      "author": "Guilherme Augusto",
+      "date": "April 22, 2022"
+    }
+  ]
+}
